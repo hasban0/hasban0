@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 - 🎮 Passionate about **Game Development & Full-Stack Applications**  
-- 🛠️ Skilled in **Unity, C#, JavaScript, TypeScript**  
+- 🛠️ Skilled in **Unity, C#, JavaScript, Typescript , HTML, CSS, PHP, Java**  
 - 💡 Interested in **WebRTC, WebSockets, AI, Networking & Backend Development**  
 - 🚀 Always experimenting with **new technologies & frameworks**  
 - 🎯 **Goal:** Building high-performance applications with clean code principles  
